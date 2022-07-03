@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Pinterest Clone",
-    "slug": "pinterest-clone",
+    "slug": "pinterest-app-clone",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./src/assets/icon.png",
@@ -28,7 +28,7 @@
     "web": {
       "favicon": "./src/assets/favicon.png"
     },
-    "description": "Inspired by Pinterest app.",
-    "githubUrl": "https://github.com/klincoder/app-pinterest-clone"
+    "description": "A Pinterest inspired UI design with masonry list layout.",
+    "githubUrl": "https://github.com/klincoder/pinterest-app-clone"
   }
 }
